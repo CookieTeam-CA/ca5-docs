@@ -16,9 +16,16 @@ export default defineConfig({
         text: '',
         items: [
           { text: '🍪 Startseite', link: '/' },
+          { text: '📃 Regeln', link: '/rules' },
           { text: '📝 Changelog', link: '/changelog' },
           { text: '📦 Mods', link: '/mods'},
           { text: '❓ FAQ', link: '/faq' }
+        ]
+      },
+      {
+        text: 'Features',
+        items: [
+          { text: '🛠️ Modding', link: '/features/modding' }
         ]
       }
     ],
