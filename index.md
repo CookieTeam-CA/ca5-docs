@@ -1,25 +1,12 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
-hero:
-  name: "CookieAttack 5 Docs"
-  text: "CookieAttack 5 Dokumentation"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+title: Startseite
+layout: doc
 ---
 
+# 🍪 Startseite
+
+## Was ist CookieAttack 5?
+
+**CookieAttack 5** ist ein Minecraft Survival Multiplayer Projekt (SMP) mit Voice-Chat, Custom Features und regelmäßigen Content-Updates.
+
+Du möchtest dabei sein? Dann trete jetzt unseren [Discord](https://dc.cookieattack.de) bei!

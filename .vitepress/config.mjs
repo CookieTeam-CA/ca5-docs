@@ -8,22 +8,27 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Startseite', link: '/' },
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '🍪 Startseite', link: '/' },
+          { text: '📝 Changelog', link: '/changelog' },
+          { text: '📦 Mods', link: '/mods'},
+          { text: '❓ FAQ', link: '/faq' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'discord', link: 'https://dc.cookieattack.de' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@cookieteamca5' },
+      { icon: 'tiktok', link: 'https://www.tiktok.com/@cookieteamca' },
+      { icon: 'instagram', link: 'https://www.instagram.com/cookie.teamca/' },
+      { icon: 'x', link: 'https://x.com/CookieTeamCA' }
     ]
   }
 })
