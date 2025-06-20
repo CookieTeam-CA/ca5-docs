@@ -25,7 +25,16 @@ export default defineConfig({
       {
         text: 'Features',
         items: [
-          { text: '🛠️ Modding', link: '/features/modding' }
+          { text: '🪦 Grabsteine', link: '/features/graves' },
+          { text: '🪑 Setzen', link: '/features/sit' },
+          { text: '🖼️ Bilder', link: '/features/image' },
+          { text: '🚩 Claimen', link: '/features/claim' },
+          { text: '🗺️ Online Map', link: '/features/map' },
+          { text: '📊 Statistiken', link: '/features/stats' },
+          { text: '⛏️ StatTrack', link: '/features/stattrack' },
+          { text: '🗿 Spieler Status', link: '/features/status' },
+          { text: '🎙️ Voicechat', link: '/features/voicechat' },
+          { text: '👁️ Dyn. Renderdistance', link: '/features/dynrender' }
         ]
       }
     ],

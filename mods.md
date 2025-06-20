@@ -7,7 +7,6 @@ layout: doc
 
 Hier findest du unser empfohlenes Modpack sowie eine Übersicht über **benötigte**, **empfohlene** und **verbotene** Mods.
 
----
 
 ## 🧪 Modpacks
 
@@ -19,7 +18,6 @@ Hier findest du unser empfohlenes Modpack sowie eine Übersicht über **benötig
 - [Modrinth](https://modrinth.com/modpack/cookieattack/versions?g=1.21.4)  
 - [CurseForge](https://www.curseforge.com/minecraft/modpacks/cookieattack/files/all?page=1&pageSize=20&version=1.21.4)
 
----
 
 ## ✅ Benötigt
 
@@ -27,7 +25,6 @@ Diese Mod ist Pflicht, um überhaupt mitspielen zu können:
 
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
----
 
 ## ⭐ Empfohlen
 
@@ -37,7 +34,6 @@ Diese Mods verbessern dein Spielerlebnis – sind aber optional:
 - [Essential](https://modrinth.com/mod/essential) – Freunde & Multiplayer-Quality of Life
 - Performance-Mods wie z. B. [Sodium](https://modrinth.com/mod/sodium), [Lithium](https://modrinth.com/mod/lithium), [Starlight](https://modrinth.com/mod/starlight) etc.
 
----
 
 ## ⛔ Verboten
 
@@ -46,7 +42,8 @@ Folgende Mods sind **nicht erlaubt**, um Fairness und Server-Stabilität zu gew�
 - Alles, was dir einen unfairen Vorteil gibt – z. B. **Killaura**, **Reach/Range**, **Speed**, **X-Ray** etc.
 - **Freecam-Mods**, bei denen man durch Blöcke fliegen kann
 
----
+> Mehr Infos findest du in den [Regeln](/rules.md)
+
 
 <details>
 <summary>✅ Wie stelle ich die Freecam-Mod korrekt ein?</summary>
