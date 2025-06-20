@@ -9,6 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Startseite', link: '/' },
+      { text: 'Online Map', link: 'http://map.cookieattack.de:5555' },
     ],
 
     sidebar: [

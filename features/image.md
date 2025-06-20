@@ -53,7 +53,6 @@ Wähle zwei Ecken einer Itemframe-Wand aus. Danach kannst du bei `/if create` st
 
 Löscht das angegebene Bild aus deinem Profil (und von der Karte).
 
----
 
 ## 📦 Beispiel
 

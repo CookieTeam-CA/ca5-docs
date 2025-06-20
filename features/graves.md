@@ -8,7 +8,6 @@ layout: doc
 Wenn du stirbst, wird dein gesamter Loot automatisch in einem **Grabstein** gesichert.  
 Nur **du** kannst ihn öffnen – andere Spieler kommen nicht dran.
 
----
 
 ## 🧠 Das Wichtigste
 
