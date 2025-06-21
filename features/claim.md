@@ -5,9 +5,7 @@ layout: doc
 
 # 🏞️ Landverwaltung & Claims
 
-Hier erfährst du, wie du dein eigenes Land beanspruchst, verwaltest und mit anderen zusammenarbeitest.
-
-> 🔒 Du kannst genau bestimmen, wer in deinem Land bauen, abbauen oder interagieren darf.
+Hier erfährst du, wie du dein eigenes Land beanspruchst und verwaltest.
 
 
 ## 🧱 Land erstellen & claimen
