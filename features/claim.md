@@ -40,6 +40,54 @@ Wähle zwei Ecken aus (einfach anklicken) und claim dann alles dazwischen:
 /lands claim
 ```
 
+## ⏱️ Zeitbasierte Belohnungen
+
+Je länger du auf dem Server spielst, desto mehr kannst du Claimen.
+
+| Belohnung                  | Wartezeit     |
+|---------------------------|---------------|
+| +1 Chunk claimbar         | alle **45 min** |
+| +1 Land als Mitglied      | alle **6 h**     |
+| +1 eigenes Land           | alle **12 h**    |
+| +1 zusätzlicher Member    | alle **2 h**     |
+| +1 Support-Chunk (für fremde Länder) | alle **4 h**     |
+
+> ℹ️ Es kann bis zu 1 Minute dauern, bis du die Belohnung bekommst.
+
+
+## 💸 Kosten & Limits
+
+Du brauchst Gold Ingots um die folgenden Sachen zu kaufen.
+
+### Land erstellen
+
+* Kosten: **256 Gold Ingots**
+* Beim Erstellen bekommst du automatisch den Chunk, in dem du stehst.
+
+### Chunk claimen
+
+* Basispreis: **5 Coins pro Chunk**
+* Jeder weitere Claim erhöht den Preis um **+1 Coin**
+* Maximalpreis: **32 Coins**
+* Wenn du einen Chunk unclaimst, bekommst du **25 % des Preises zurück**.
+
+### Besitzerwechsel
+
+* Einen neuen Besitzer für dein Land festlegen kostet **256 Coins**
+
+
+## 🧱 Maximalwerte
+
+| Limitart                        | Maximalwert |
+|--------------------------------|-------------|
+| Eigene Länder                  | 5           |
+| Mitglied in anderen Ländern   | 15          |
+| Vertrauenspersonen im eigenen Land | 15      |
+| Chunks insgesamt               | 200         |
+| Support-Chunks für andere Länder | 16        |
+
+> Solltest du ein großes Projekt haben für das du mehr brauchst kannst du gerne den Discord Support anschreiben ;)
+
 
 ## ⚙️ Claim-Verwaltung
 

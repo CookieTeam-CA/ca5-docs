@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "CookieAttack 5 Docs",
   description: "CookieAttack 5 Dokumentation",
+  head: [['link', { rel: 'icon', href: 'assets/favicon.ico' }]],
   base: '/ca5-docs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
