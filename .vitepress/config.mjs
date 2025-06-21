@@ -33,7 +33,7 @@ export default defineConfig({
           { text: '🗺️ Online Map', link: '/features/map' },
           { text: '📊 Statistiken', link: '/features/stats' },
           { text: '⛏️ StatTrack', link: '/features/stattrack' },
-          { text: '🗿 Spieler Status', link: '/features/status' },
+          { text: '🏷️ Spieler Status', link: '/features/status' },
           { text: '🎙️ Voicechat', link: '/features/voicechat' },
           { text: '👁️ Dyn. Renderdistance', link: '/features/dynrender' }
         ]
