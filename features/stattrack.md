@@ -42,4 +42,4 @@ StatTrack merkt sich auch, **wem ein Item ursprünglich gehört**, wenn es z. 
 ## 💡 Hinweise
 
 - Die Stats werden direkt in der Item-Beschreibung angezeigt (Lore).
-- Diese Funktion wird auch von Modartoren genutzt um zB Dupe Items zu finden da jedes Item dadurch einen Hash Wert hat.
+- Diese Funktion wird auch von Moderatoren genutzt um z.B. Dupe Items zu finden, da jedes Item dadurch einen Hash Wert hat.

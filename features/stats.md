@@ -38,4 +38,4 @@ Mit dem Befehl `/stats` kannst du dir **Statistiken von dir, anderen Spielern od
 Mace1050HD: 51 Times Used (Cookie)
 ```
 
-> Hier ist eine [Liste](https://minecraft.fandom.com/wiki/Statistics#List_of_custom_statistic_names) mit allen Statisiken die im Spiel exestieren.
+> Hier ist eine [Liste](https://minecraft.fandom.com/wiki/Statistics#List_of_custom_statistic_names) mit allen Statisiken die im Spiel existieren.

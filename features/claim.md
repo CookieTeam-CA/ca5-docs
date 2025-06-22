@@ -64,14 +64,14 @@ Du brauchst Gold Ingots um die folgenden Sachen zu kaufen.
 
 ### Chunk claimen
 
-* Basispreis: **5 Coins pro Chunk**
+* Basispreis: **5 Gold Ingots pro Chunk**
 * Jeder weitere Claim erhöht den Preis um **+1 Coin**
-* Maximalpreis: **32 Coins**
+* Maximalpreis: **32 Gold Ingots**
 * Wenn du einen Chunk unclaimst, bekommst du **25 % des Preises zurück**.
 
 ### Besitzerwechsel
 
-* Einen neuen Besitzer für dein Land festlegen kostet **256 Coins**
+* Einen neuen Besitzer für dein Land festlegen kostet **256 Gold Ingots**
 
 
 ## 🧱 Maximalwerte
