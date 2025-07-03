@@ -69,6 +69,8 @@ Mit diesem Feature kannst du durch das Töten von Mobs **deren Köpfe** als deko
 | Ravager | 25.00% | 27.00% | 29.00% | 31.00% |
 | Salmon | 10.00% | 11.00% | 12.00% | 13.00% |
 | Shulker | 5.00% | 6.00% | 7.00% | 8.00% |
+| Sheep | 1.75% | 2.00% | 2.25% | 2.50% |
+| Sheep (Jeb) | 10% | 15% | 20% | 25% |
 | Silverfish | 5.00% | 6.00% | 7.00% | 8.00% |
 | Skeleton Horse | 20.00% | 25.00% | 30.00% | 35.00% |
 | Slime | 0.50% | 0.60% | 0.70% | 0.80% |
