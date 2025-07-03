@@ -36,7 +36,8 @@ export default defineConfig({
           { text: '⛏️ StatTrack', link: '/features/stattrack' },
           { text: '🏷️ Spieler Status', link: '/features/status' },
           { text: '🎙️ Voicechat', link: '/features/voicechat' },
-          { text: '👁️ Dyn. Renderdistance', link: '/features/dynrender' }
+          { text: '👁️ Dyn. Renderdistance', link: '/features/dynrender' },
+          { text: '🐑 Mob Heads', link: '/features/mobheads' }
         ]
       }
     ],

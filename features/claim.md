@@ -65,7 +65,7 @@ Du brauchst Gold Ingots um die folgenden Sachen zu kaufen.
 ### Chunk claimen
 
 * Basispreis: **5 Gold Ingots pro Chunk**
-* Jeder weitere Claim erhöht den Preis um **+1 Coin**
+* Jeder weitere Claim erhöht den Preis um **+1 Gold Ingot**
 * Maximalpreis: **32 Gold Ingots**
 * Wenn du einen Chunk unclaimst, bekommst du **25 % des Preises zurück**.
 
