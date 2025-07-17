@@ -24,27 +24,27 @@ Die Crafting-Rezepte können jederzeit im Spiel im Crafting Table eingesehen wer
 
 ### Holz Katana
 
-![Holz Katana Recipe](/assets/crafting/wooden_katana.png)
+![Holz Katana Recipe](/assets/crafting/wooden_katana.webp)
 
 ### Stein Katana
 
-![Stein Katana Recipe](/assets/crafting/stone_katana.png)
+![Stein Katana Recipe](/assets/crafting/stone_katana.webp)
 
 ### Gold Katana
 
-![Gold Katana Recipe](/assets/crafting/gold_katana.png)
+![Gold Katana Recipe](/assets/crafting/gold_katana.webp)
 
 ### Eisen Katana
 
-![Eisen Katana Recipe](/assets/crafting/iron_katana.png)
+![Eisen Katana Recipe](/assets/crafting/iron_katana.webp)
 
 ### Diamant Katana
 
-![Diamant Katana Recipe](/assets/crafting/diamond_katana.png)
+![Diamant Katana Recipe](/assets/crafting/diamond_katana.webp)
 
 ### Netherite Katana
 
-![Netherite Katana Recipe](/assets/crafting/netherite_katana.png)
+![Netherite Katana Recipe](/assets/crafting/netherite_katana.webp)
 
 ## Lore
 

@@ -24,27 +24,27 @@ Die Crafting-Rezepte können jederzeit InGame im Crafting-Table eingesehen werde
 
 ### Holz Cleaver
 
-![Holz Cleaver Recipe](/assets/crafting/wooden_cleaver.png)
+![Holz Cleaver Recipe](/assets/crafting/wooden_cleaver.webp)
 
 ### Stein Cleaver
 
-![Stein Cleaver Recipe](/assets/crafting/stone_cleaver.png)
+![Stein Cleaver Recipe](/assets/crafting/stone_cleaver.webp)
 
 ### Gold Cleaver
 
-![Gold Cleaver Recipe](/assets/crafting/gold_cleaver.png)
+![Gold Cleaver Recipe](/assets/crafting/gold_cleaver.webp)
 
 ### Eisen Cleaver
 
-![Eisen Cleaver Recipe](/assets/crafting/iron_cleaver.png)
+![Eisen Cleaver Recipe](/assets/crafting/iron_cleaver.webp)
 
 ### Diamant Cleaver
 
-![Diamant Cleaver Recipe](/assets/crafting/diamond_cleaver.png)
+![Diamant Cleaver Recipe](/assets/crafting/diamond_cleaver.webp)
 
 ### Netherite Cleaver
 
-![Netherite Cleaver Recipe](/assets/crafting/netherite_cleaver.png)
+![Netherite Cleaver Recipe](/assets/crafting/netherite_cleaver.webp)
 
 ## Lore
 
