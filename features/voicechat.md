@@ -3,7 +3,7 @@ title: Voicechat
 layout: doc
 ---
 
-## 🎙️ Voicechat
+# 🎙️ Voicechat
 
 Mit dem Voicechat-Feature kannst du **im Spiel mit anderen Spielern sprechen**.  
 Alles was du brauchst, ist die [Simple Voice Chat Mod](https://modrinth.com/plugin/simple-voice-chat), die du auch bereits in [Mods](../mods.md) findest.

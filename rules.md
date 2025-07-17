@@ -27,6 +27,8 @@ layout: doc
 
 6. Das Team behält sich vor, Maßnahmen zu ergreifen, **auch ohne klaren Regelverstoß**, wenn das Verhalten als unangemessen bewertet wird.
 
+7. Sei kein Arsch!
+
 
 ## 💬 Chat- & Voicechat-Regeln
 

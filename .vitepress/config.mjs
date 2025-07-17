@@ -39,6 +39,13 @@ export default defineConfig({
           { text: '👁️ Dyn. Renderdistance', link: '/features/dynrender' },
           { text: '🐑 Mob Heads', link: '/features/mobheads' }
         ]
+      },
+      {
+        text: 'Items',
+        items: [
+          { text: '🔪 Cleaver', link: '/items/cleaver'},
+          { text: '🇯🇵 Katana', link: '/items/katana'}
+        ]
       }
     ],
 
