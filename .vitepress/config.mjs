@@ -37,7 +37,8 @@ export default defineConfig({
           { text: '🏷️ Spieler Status', link: '/features/status' },
           { text: '🎙️ Voicechat', link: '/features/voicechat' },
           { text: '👁️ Dyn. Renderdistance', link: '/features/dynrender' },
-          { text: '🐑 Mob Heads', link: '/features/mobheads' }
+          { text: '🐑 Mob Heads', link: '/features/mobheads' },
+          { text: '🏪 Shoping Bereich', link: '/features/shop' },
         ]
       },
       {

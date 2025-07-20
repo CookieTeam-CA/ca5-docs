@@ -82,5 +82,14 @@ Bei Regelverstößen entscheidet das Team über passende Konsequenzen.
 **Die Schwere der Strafe richtet sich nach dem Ausmaß des Verstoßes.**
 
 
+## 🏪 Shop Berreich Regeln
+
+1. Sobald du einen Shop aufstellst, muss er ein Gebäude oder klar erkennbare Struktur besitzen.
+
+2. Shop-Grundstücke dürfen nicht unnötig groß sein.
+
+3. Der Shop berreich ist eine friedliche Zone fallen PVP oder ähnliches sind hier nicht erlaubt.
+
+
 
 > Bei Fragen oder Unsicherheiten – frag lieber einmal zu viel als zu wenig im [Discord](https://dc.cookieattack.de)
